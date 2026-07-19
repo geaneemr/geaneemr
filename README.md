@@ -98,7 +98,6 @@ Feel free to reach out for collaborations, questions, or just a friendly chat!
 
 *"The most damaging phrase in the language is: 'It's always been done this way.'"* - Grace Hopper
 
-![Profile Views](https://komarev.com/ghpvc/?username=geanemr&color=blueviolet&style=for-the-badge)
 
 </div>
 
